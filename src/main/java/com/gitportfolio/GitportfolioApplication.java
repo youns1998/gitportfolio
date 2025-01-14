@@ -8,6 +8,7 @@ public class GitportfolioApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitportfolioApplication.class, args);
+		//test
 	}
 
 }
